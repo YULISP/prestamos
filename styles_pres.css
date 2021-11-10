@@ -1,0 +1,28 @@
+body{
+    background-image: url("https://wallpaperaccess.com/full/1943037.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#box {
+    background:transparent;
+    margin: 160px;
+    padding: 0 7px 0 7px;
+    width: 600px;
+    height: 280px;
+    padding-top:10px;
+    border-radius: 18px;
+    border:solid rgb(255, 255, 255);
+}
+#titulo{
+    margin: 40px;
+}
+
+#bt-1{
+    margin: 70px;
+}
+#bt-2{
+    margin: 30px;
+}

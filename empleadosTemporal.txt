@@ -1,0 +1,32 @@
+55
+Samuel Antonio Dircio
+Masculino
+Contrato
+500
+samuel
+123
+https://assets.ldscdn.org/c8/27/c82759636d5c51e392cea646399b90fe9671dc88/old_testament_stories_samuel_prophet.jpeg
+57
+Roberto Gamaliel Campos
+Masculino
+Auxiliar
+2000
+gamaliel
+1234
+https://i.pinimg.com/originals/d0/f3/7d/d0f37dd4361781ee243fc56d8f683a50.jpg
+59
+Yulisa De Jesus
+Femenino
+Contrato
+12220
+juli
+123
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPDPaHgP24YiTkA8u0s5BPWoX9FiOIubPkFA&usqp=CAU
+60
+Diana Guadalupe Carbajal
+Femenino
+Auxiliar
+12220
+diana
+123
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPDPaHgP24YiTkA8u0s5BPWoX9FiOIubPkFA&usqp=CAU
